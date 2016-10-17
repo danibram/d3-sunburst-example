@@ -1,0 +1,94 @@
+{
+    "name": "data",
+    "children": [{
+        "name": "analytics",
+        "children": [{
+            "name": "cluster",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 5
+            }]
+        },{
+            "name": "cluster1",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 1
+            },{
+                "name": "AgglomerativeCluster",
+                "size": 5
+            }]
+        }]
+    },{
+        "name": "analytics",
+        "children": [{
+            "name": "cluster",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 10
+            }]
+        }]
+    },{
+        "name": "analytics",
+        "children": [{
+            "name": "cluster",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 10
+            }]
+        }]
+    },{
+        "name": "analytics",
+        "children": [{
+            "name": "cluster",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 10
+            }]
+        }]
+    },{
+        "name": "analytics",
+        "children": [{
+            "name": "cluster",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 10
+            }]
+        }]
+    },{
+        "name": "analytics",
+        "children": [{
+            "name": "cluster",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 10
+            }]
+        }]
+    },{
+        "name": "analytics",
+        "children": [{
+            "name": "cluster",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 10
+            }]
+        }]
+    },{
+        "name": "analytics",
+        "children": [{
+            "name": "cluster",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 10
+            }]
+        }]
+    },{
+        "name": "analytics",
+        "children": [{
+            "name": "cluster",
+            "children": [{
+                "name": "AgglomerativeCluster",
+                "size": 10
+            }]
+        }]
+    }]
+}
